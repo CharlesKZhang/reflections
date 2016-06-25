@@ -7,6 +7,7 @@ staging area can help handle committing only certain files at a time and not all
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+add only the files that are needed with git add
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
