@@ -20,5 +20,7 @@ They show you the multiple branches that are available and understand what and w
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+adding the two functionalities together
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
