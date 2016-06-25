@@ -24,3 +24,4 @@ adding the two functionalities together
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Auto merging helps saves time and user error of finding what is different and merging it. The cmerging conflict finds makes sure that nothing is added that shouldnt be.
