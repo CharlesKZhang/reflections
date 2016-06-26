@@ -17,3 +17,7 @@ The benefit is that you have the most up to date file that you can work off of l
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would have to put the code in dropbox. I would have to make it read only and only edit access to a select few. There are no branches, just one. This would make it difficult to work parallely. I would then juse commadn prompt to compare the changes of the files and merge that way.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You want to do this if you have multiple people working on the "project". The benefits to this is that they wouldnt see updates and they can review the code before committing it to the master branch. 
